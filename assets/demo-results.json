@@ -1,0 +1,26 @@
+{
+  "data": "Synthetic prices, seed=42; not market observations",
+  "provenance": "Authored reference; no model called",
+  "bars": 320,
+  "holdout_start": "2024-10-18",
+  "initial_cash": 10000,
+  "allocation": 0.2,
+  "fee_bps": 1,
+  "slippage_bps": 5,
+  "strategy": {
+    "return_pct": -0.7775920265179814,
+    "max_drawdown_pct": -2.2281109632432683,
+    "sharpe_252_rf0": -0.650840231743076,
+    "orders": 7,
+    "fees": 1.325789540430516,
+    "final_equity": 9922.240797348202
+  },
+  "buy_and_hold": {
+    "return_pct": 2.1902250048625227,
+    "max_drawdown_pct": -2.398733519097318,
+    "sharpe_252_rf0": 1.3017074346110127,
+    "orders": 1,
+    "fees": 0.19339294593394815,
+    "final_equity": 10219.022500486253
+  }
+}

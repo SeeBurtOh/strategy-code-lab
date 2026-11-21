@@ -1,0 +1,7 @@
+# Versions used to validate this portfolio release (Python 3.12).
+gradio==5.49.1
+openai==2.7.1
+alpaca-py==0.45.0
+numpy==2.3.4
+pandas==2.3.3
+python-dotenv==1.2.1
